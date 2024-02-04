@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.example.bar_demo_app.dac.bc.DemoService;
+import com.example.bar_demo_app.bc.DemoService;
 import com.example.bar_demo_app.dac.entity.UserInformation;
 import com.example.bar_demo_app.ic.dto.InDto;
 

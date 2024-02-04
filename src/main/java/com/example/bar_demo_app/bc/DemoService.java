@@ -1,4 +1,4 @@
-package com.example.bar_demo_app.dac.bc;
+package com.example.bar_demo_app.bc;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
