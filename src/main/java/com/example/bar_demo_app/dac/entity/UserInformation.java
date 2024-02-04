@@ -11,7 +11,6 @@ import org.seasar.doma.jdbc.entity.NamingType;
 @Setter
 @Accessors(chain = true)
 @Entity(naming = NamingType.SNAKE_LOWER_CASE)
-
 public class UserInformation {
     @Id
     private Long id;
